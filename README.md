@@ -1,5 +1,9 @@
 # Expense Dashboard
 
+---
+
+## Images of the program inside assets folder!
+
 This project is a dynamic and interactive web application built using **Dash**, **Plotly**, and **Pandas** to visualize and analyze monthly expenses. The dashboard allows users to explore expenses by category, view trends over time, and analyze their spending patterns with various types of visualizations.
 
 ## Features
