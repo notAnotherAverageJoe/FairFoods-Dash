@@ -87,4 +87,4 @@ def update_graph(selected_category):
     return bar_fig, pie_fig, line_fig, scatter_fig, avg_display
 
 if __name__ == '__main__':
-    app.run_server(debug=True, host='0.0.0.0', port=80)
+    app.run_server(debug=True,)
