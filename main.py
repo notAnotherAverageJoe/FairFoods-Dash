@@ -7,7 +7,7 @@ import pandas as pd
 app = dash.Dash(__name__)
 
 # Read the updated data from CSV
-df = pd.read_csv('./assets/expense.csv')
+df = pd.read_csv('expense.csv')
 
 # Reshape the data for plotting
 df_melted = df.melt(id_vars=["Category"], 
